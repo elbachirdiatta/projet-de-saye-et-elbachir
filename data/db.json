@@ -1,0 +1,23 @@
+{
+"users":[
+    {
+        "nom":"diatta",
+        "prenom":"elbachir",
+        "login":"joueur@gmail.com",
+        "password":"joueur",
+        "score":15,
+        "role":"role_joueur"
+        
+    },
+
+    {
+        "nom":"badiane",
+        "prenom":"saye",
+        "login":"admin@gmail.com",
+        "password":"admin",
+        "score":0,
+        "role":"role_admin"
+    } 
+]
+
+}

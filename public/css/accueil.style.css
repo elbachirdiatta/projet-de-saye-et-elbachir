@@ -1,0 +1,55 @@
+.main_accueil{
+    background-color: white;
+    height: 85vh;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.header_accueil{
+    background-color: rgb(81,191,208);
+    height: 100px;
+    margin-top: -8px;
+    text-align: center;
+    color: white;
+}
+.midle_accueil{
+    border: 2px solid;
+    width: 30%;
+    height: 20vh;
+    margin-top: 50px;
+}
+.lama{
+    width: 500px;
+}
+
+.entete{
+    display: flex;
+
+}
+
+
+.entete img{
+    width: 100px;
+    height: 100px;
+
+    margin-left:50px
+}
+
+.entete h1{
+    margin-left: 500px;
+}
+.entete span{
+    margin-left: 700px;
+    margin-top: 19px;
+    font-size: 30px;
+}
+
+.header_accueil
+button{
+    color: white;
+    width: 100px;
+    margin-left: 80%;
+    margin-bottom: 2rem;
+    position: relative;
+    top: -3em;
+}
